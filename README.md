@@ -3,6 +3,9 @@
 > I am a UX & frontend engineer with over a decade of experience in software design, and I love well-crafted design systems and component libraries. 
 Together with my family, I live in the vibrant city of Berlin. In my spare time, I like to visit exhibitions, meet with friends, and learn new things.
 
+[![](https://img.shields.io/static/v1?label=LinkedIn&message=@pdxiii&style=social&logo=linkedin)](https://linkedin.com/in/pdxiii)
+[![](https://img.shields.io/static/v1?label=email&message=sekan.pete@gmail.com&style=social&logo=gmail)](mailto:sekan.pete@gmail.com)
+
 ## About Me
 
 Maybe, you haven’t heard about UX engineering. Then let me recommend [this article](https://petersekan.de/thoughts/ux-engineer/) to you. Yes, it’s by me 😁, but still worth reading. I graduated from the [University of Applied Sciences Potsdam](https://www.fh-potsdam.de/en) with a Bachelor of Arts in Interface Design in 2014. Since then, I have worked for two years freelance as a full-stack web designer, providing everything from visual design to full service with design, development, deployment, and maintenance of websites. In 2016 I joined a SAAS startup here in Berlin as a design engineer. From then on, my main focus is on design systems.
