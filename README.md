@@ -8,6 +8,8 @@ Together with my family, I live in the vibrant city of Berlin. In my spare time,
 [![Link to my LinkedIn profile](https://img.shields.io/static/v1?label=LinkedIn&message=@pdxiii&style=social&logo=linkedin)](https://linkedin.com/in/pdxiii)
 [![Link to write me an email](https://img.shields.io/static/v1?label=email&message=sekan.pete@gmail.com&style=social&logo=gmail)](mailto:sekan.pete@gmail.com)
 
+[![Link to my Codewars Profile](https://www.codewars.com/users/PDXIII/badges/micro)]
+
 ## About Me
 
 Maybe, you haven’t heard about UX engineering. Then let me recommend [this article](https://petersekan.de/thoughts/ux-engineer/) to you. Yes, it’s by me 😁, but still worth reading.  
